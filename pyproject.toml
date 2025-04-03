@@ -5,6 +5,7 @@ description = "Project with creating model to "
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [
+    "catboost>=1.2.7",
     "ipython==8.12",
     "ipywidgets>=8.1.5",
     "matplotlib>=3.10.1",

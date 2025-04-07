@@ -5,21 +5,17 @@ description = "Project with creating model to "
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [
-    "alive-progress>=3.2.0",
     "catboost>=1.2.7",
     "ipython==8.12",
     "ipywidgets>=8.1.5",
-    "joblib>=1.4.2",
     "matplotlib>=3.10.1",
     "notebook>=7.3.3",
     "optuna>=4.2.1",
     "optuna-integration>=4.2.1",
     "pandas>=2.2.3",
     "phik>=0.12.4",
-    "rich>=14.0.0",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "shap>=0.47.1",
-    "tqdm>=4.67.1",
     "xgboost>=3.0.0",
 ]
